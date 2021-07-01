@@ -1,7 +1,7 @@
-# Canary Platform Homework
+# Sensor API Example
 
 ## Introduction
-Imagine a system where hundreds of thousands of Canary like hardware devices are concurrently uploading temperature and humidty sensor data.
+Imagine a system where hundreds of thousands of hardware devices are concurrently uploading temperature and humidty sensor data.
 
 The API to facilitate this system accepts creation of sensor records, in addition to retrieval.
 
